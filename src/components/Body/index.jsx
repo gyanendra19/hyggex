@@ -23,13 +23,13 @@ const Body = () => {
                 </div>
 
                 <div className='flex md:w-[40%] w-full justify-between gap-6 items-center mt-3'>
-                    <div className='text-color'><RiLoopRightLine size={24} /></div>
+                    <div className='text-color'><RiLoopRightLine color='darkblue' size={24} /></div>
                     <div className='flex gap-8 items-center'>
                         <span className='font-bold p-2 rounded-full bg-btn-gradient'><RiArrowLeftSLine size={26} color='white' /></span>
                         <span className='font-semibold text-lg'>01/10</span>
                         <span className='font-bold p-2 rounded-full bg-btn-gradient'><RiArrowRightSLine size={26} color='white' /></span>
                     </div>
-                    <div><RiSquareLine size={24} /></div>
+                    <div><RiSquareLine color='darkblue' size={24} /></div>
                 </div>
 
                 <div className='w-full gap-2 flex items-center justify-between mt-10'>
