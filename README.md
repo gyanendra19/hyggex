@@ -1,8 +1,31 @@
-# React + Vite
+## Cloning and Running the Application in local
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Clone the project into local
 
-Currently, two official plugins are available:
+Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+npm install
+```
+
+In order to run the application Type the following command
+
+```bash
+npm run dev
+```
+
+The Application Runs on **localhost:5173**
+
+## Live Application URL
+
+The Application is deployed in https://hyggex-orcin.vercel.app/
+
+Click on the link to see the application
+
+## What are the features
+
+This Project is a Simple ReactJS Project which demonstrates the following
+1. Creating a Component in React
+2. Using tailwind CSS for styling
+3. Communicating between parent and child component
+4. UI/UX design from figma
