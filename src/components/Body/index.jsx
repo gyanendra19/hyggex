@@ -32,7 +32,7 @@ const Body = () => {
                     <div><RiSquareLine size={24} /></div>
                 </div>
 
-                <div className='w-[110%] flex items-center justify-between mt-10'>
+                <div className='w-full gap-2 flex items-center justify-between mt-10'>
                     <div className='flex gap-3'>
                         <div className='bg-white md:p-2 p-1 rounded-full logo-shadow'>
                             <img className='md:h-12 h-6 md:mt-1 mt-2' src="./logo.png" alt="" />
